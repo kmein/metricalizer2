@@ -17,3 +17,8 @@ Deno.test("cross rhyme in the Fallersleben stanza", () => {
   const stanza = "Ich muß hinaus, ich muß zu dir,\nIch muß es selbst dir sagen:\nDu bist mein Frühling, du nur mir\nIn diesen lichten Tagen.";
   assert.equal(scheme(stanza), "abab");
 });
+
+Deno.test("rhymes and letters run across stanzas", () => {
+  const a = analyse("Mein Herz\nIm Wald\n\nKein Schmerz\nIm Feld");
+  assert.deepEqual(a.stanzas.map((st) => st.lines.map((l) => l.rhyme).join("")), ["ab", "ac"]);
+});

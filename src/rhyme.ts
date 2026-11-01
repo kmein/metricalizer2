@@ -38,12 +38,13 @@ function letter(i: number): string {
   return String.fromCharCode(97 + (i % 26)) + (i >= 26 ? String(Math.floor(i / 26)) : "");
 }
 
-export function rhymeScheme(stanza: Pick<Line, "syllables" | "words">[]): string[] {
-  const keys = stanza.map(rhymeKey);
-  const lastWords = stanza.map((l) => normWord(l.words[l.words.length - 1] ?? ""));
+/** letters run across the whole poem, so a line can rhyme with one in another stanza */
+export function rhymeScheme(lines: Pick<Line, "syllables" | "words">[]): string[] {
+  const keys = lines.map(rhymeKey);
+  const lastWords = lines.map((l) => normWord(l.words[l.words.length - 1] ?? ""));
   const letters: string[] = [];
   let next = 0;
-  stanza.forEach((_, i) => {
+  lines.forEach((_, i) => {
     const j = keys.findIndex((k, j) => j < i && k === keys[i] && lastWords[j] !== lastWords[i]);
     letters.push(j >= 0 ? letters[j] : letter(next++));
   });

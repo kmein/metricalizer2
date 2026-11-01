@@ -66,10 +66,11 @@ export function analyse(src: string, opts: AnalyseOptions = {}): Analysis {
       complexity: round(lineScores[si][li]),
       rhyme: "",
     }));
-    rhymeScheme(lines).forEach((r, i) => (lines[i].rhyme = r));
     const scores = lineScores[si];
     return { lines, complexity: round(scores.length ? scores.reduce((a, b) => a + b, 0) / scores.length : 0) };
   });
+  const allLines = stanzas.flatMap((st) => st.lines);
+  rhymeScheme(allLines).forEach((r, i) => (allLines[i].rhyme = r));
 
   return {
     title: parsed.title,
