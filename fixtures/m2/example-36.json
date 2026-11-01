@@ -1,0 +1,1168 @@
+{
+ "id": 36,
+ "source_url": "https://metricalizer.de/en/metrikanalyse/poem/analyse/example/36",
+ "timestamp": "20240414103044",
+ "truncated": false,
+ "stanzas": [
+  {
+   "lines": [
+    {
+     "rhyme": "a",
+     "syllables": [
+      {
+       "text": "O",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "gib",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "vom",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "wei",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "chen",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -100,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "Pfüh",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "le",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      }
+     ]
+    },
+    {
+     "rhyme": "b",
+     "syllables": [
+      {
+       "text": "Träu",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "mend",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "ein",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "halb",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "Ge",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "hör",
+       "word_start": false,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      }
+     ]
+    },
+    {
+     "rhyme": "a",
+     "syllables": [
+      {
+       "text": "Bei",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "mei",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "nem",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "Sai",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 100,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "ten",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "spie",
+       "word_start": false,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "le",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      }
+     ]
+    },
+    {
+     "rhyme": "b",
+     "syllables": [
+      {
+       "text": "Schla",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "fe",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "was",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "willst",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "du",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": -25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "mehr",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "lines": [
+    {
+     "rhyme": "c",
+     "syllables": [
+      {
+       "text": "Bei",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "mei",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "nem",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "Sai",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 100,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "ten",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "spie",
+       "word_start": false,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "le",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      }
+     ]
+    },
+    {
+     "rhyme": "d",
+     "syllables": [
+      {
+       "text": "Seg",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "net",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "der",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "Ster",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "ne",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "Heer",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      }
+     ]
+    },
+    {
+     "rhyme": "c",
+     "syllables": [
+      {
+       "text": "Die",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "e",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "wi",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "gen",
+       "word_start": false,
+       "stress": 1,
+       "prosody_level": -50,
+       "complexity": 1,
+       "message": "(Antilizenz) eine Flexionsendung fällt auf eine Hebung"
+      },
+      {
+       "text": "Ge",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "füh",
+       "word_start": false,
+       "stress": 1,
+       "prosody_level": 75,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "le",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      }
+     ]
+    },
+    {
+     "rhyme": "d",
+     "syllables": [
+      {
+       "text": "Schla",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "fe",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "was",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "willst",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "du",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": -25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "mehr",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "lines": [
+    {
+     "rhyme": "e",
+     "syllables": [
+      {
+       "text": "Die",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "e",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "wi",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "gen",
+       "word_start": false,
+       "stress": 1,
+       "prosody_level": -50,
+       "complexity": 1,
+       "message": "(Antilizenz) eine Flexionsendung fällt auf eine Hebung"
+      },
+      {
+       "text": "Ge",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "füh",
+       "word_start": false,
+       "stress": 1,
+       "prosody_level": 75,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "le",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      }
+     ]
+    },
+    {
+     "rhyme": "f",
+     "syllables": [
+      {
+       "text": "He",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "ben",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "mich",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": -25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "hoch",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "und",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "hehr",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      }
+     ]
+    },
+    {
+     "rhyme": "e",
+     "syllables": [
+      {
+       "text": "Aus",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "ir",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "di",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "schem",
+       "word_start": false,
+       "stress": 1,
+       "prosody_level": 0,
+       "complexity": 1,
+       "message": "(Antilizenz) eine Flexionsendung fällt auf eine Hebung"
+      },
+      {
+       "text": "Ge",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "wüh",
+       "word_start": false,
+       "stress": 1,
+       "prosody_level": 75,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "le",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      }
+     ]
+    },
+    {
+     "rhyme": "f",
+     "syllables": [
+      {
+       "text": "Schla",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "fe",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "was",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "willst",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "du",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": -25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "mehr",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "lines": [
+    {
+     "rhyme": "g",
+     "syllables": [
+      {
+       "text": "Vom",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "ir",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "di",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "schen",
+       "word_start": false,
+       "stress": 1,
+       "prosody_level": -50,
+       "complexity": 1,
+       "message": "(Antilizenz) eine Flexionsendung fällt auf eine Hebung"
+      },
+      {
+       "text": "Ge",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "wüh",
+       "word_start": false,
+       "stress": 1,
+       "prosody_level": 75,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "le",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      }
+     ]
+    },
+    {
+     "rhyme": "h",
+     "syllables": [
+      {
+       "text": "Trennst",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 75,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "du",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": -25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "mich",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": -25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "nur",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 0,
+       "complexity": 0.5,
+       "message": "(Lizenz) einsilbiges Wort, das prosodisch unbetont ist, fällt auf eine Hebung"
+      },
+      {
+       "text": "zu",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "sehr",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      }
+     ]
+    },
+    {
+     "rhyme": "g",
+     "syllables": [
+      {
+       "text": "Bannst",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "mich",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": -25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "in",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "die",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "se",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "Küh",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "le",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      }
+     ]
+    },
+    {
+     "rhyme": "h",
+     "syllables": [
+      {
+       "text": "Schla",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "fe",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "was",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "willst",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "du",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": -25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "mehr",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "lines": [
+    {
+     "rhyme": "i",
+     "syllables": [
+      {
+       "text": "Bannst",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "mich",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": -25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "in",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "die",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "se",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "Küh",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "le",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      }
+     ]
+    },
+    {
+     "rhyme": "j",
+     "syllables": [
+      {
+       "text": "Gibst",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "nur",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "im",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "Traum",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 75,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "Ge",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "hör",
+       "word_start": false,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      }
+     ]
+    },
+    {
+     "rhyme": "i",
+     "syllables": [
+      {
+       "text": "Ach",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "auf",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "dem",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "wei",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "chen",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -100,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "Pfüh",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "le",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      }
+     ]
+    },
+    {
+     "rhyme": "j",
+     "syllables": [
+      {
+       "text": "Schla",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "fe",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "was",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "willst",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "du",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": -25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "mehr",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

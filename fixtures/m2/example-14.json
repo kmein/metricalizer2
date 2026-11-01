@@ -1,0 +1,536 @@
+{
+ "id": 14,
+ "source_url": "https://metricalizer.de/en/metrikanalyse/poem/analyse/example/14",
+ "timestamp": "20250913011256",
+ "truncated": false,
+ "stanzas": [
+  {
+   "lines": [
+    {
+     "rhyme": "a",
+     "syllables": [
+      {
+       "text": "Aus",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 0,
+       "complexity": 0.5,
+       "message": "(Lizenz) einsilbiges Wort, das prosodisch unbetont ist, fällt auf eine Hebung"
+      },
+      {
+       "text": "der",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": -100,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "Müh",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 75,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "le",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -100,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "schaut",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 75,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "der",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": -100,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "Mül",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "ler",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -100,
+       "complexity": 0,
+       "message": null
+      }
+     ]
+    },
+    {
+     "rhyme": "b",
+     "syllables": [
+      {
+       "text": "Der",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": -100,
+       "complexity": 0.5,
+       "message": "(Lizenz) einsilbiges Wort, das prosodisch unbetont ist, fällt auf eine Hebung"
+      },
+      {
+       "text": "so",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "ger",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "ne",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -100,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "mah",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "len",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -100,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "will",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 75,
+       "complexity": 0,
+       "message": null
+      }
+     ]
+    },
+    {
+     "rhyme": "a",
+     "syllables": [
+      {
+       "text": "Stil",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "ler",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -100,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "wird",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "der",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": -100,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "Wind",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 75,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "und",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": -100,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "stil",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "ler",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -100,
+       "complexity": 0,
+       "message": null
+      }
+     ]
+    },
+    {
+     "rhyme": "b",
+     "syllables": [
+      {
+       "text": "Und",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": -100,
+       "complexity": 0.5,
+       "message": "(Lizenz) einsilbiges Wort, das prosodisch unbetont ist, fällt auf eine Hebung"
+      },
+      {
+       "text": "die",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": -100,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "Müh",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 75,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "le",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -100,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "ste",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "het",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -100,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "still",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 75,
+       "complexity": 0,
+       "message": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "lines": [
+    {
+     "rhyme": "c",
+     "syllables": [
+      {
+       "text": "So",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 0,
+       "complexity": 0.5,
+       "message": "(Lizenz) einsilbiges Wort, das prosodisch unbetont ist, fällt auf eine Hebung"
+      },
+      {
+       "text": "geht",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 25,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "im",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "mer",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -100,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "wie",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 0,
+       "complexity": 0.5,
+       "message": "(Lizenz) einsilbiges Wort, das prosodisch unbetont ist, fällt auf eine Hebung"
+      },
+      {
+       "text": "ich",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": -50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "fin",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "de",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -100,
+       "complexity": 0,
+       "message": null
+      }
+     ]
+    },
+    {
+     "rhyme": "d",
+     "syllables": [
+      {
+       "text": "Rief",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "der",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": -100,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "Mül",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "ler",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -100,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "vol",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "ler",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -100,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "Zorn",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 100,
+       "complexity": 0,
+       "message": null
+      }
+     ]
+    },
+    {
+     "rhyme": "c",
+     "syllables": [
+      {
+       "text": "Hat",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 0,
+       "complexity": 0.5,
+       "message": "(Lizenz) einsilbiges Wort, das prosodisch unbetont ist, fällt auf eine Hebung"
+      },
+      {
+       "text": "man",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "Korn",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 75,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "so",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "fehlt",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "am",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "Win",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "de",
+       "word_start": false,
+       "stress": 0,
+       "prosody_level": -100,
+       "complexity": 0,
+       "message": null
+      }
+     ]
+    },
+    {
+     "rhyme": "d",
+     "syllables": [
+      {
+       "text": "Hat",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 0,
+       "complexity": 0.5,
+       "message": "(Lizenz) einsilbiges Wort, das prosodisch unbetont ist, fällt auf eine Hebung"
+      },
+      {
+       "text": "man",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "Wind",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 75,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "so",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "fehlt",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 50,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "am",
+       "word_start": true,
+       "stress": 0,
+       "prosody_level": 0,
+       "complexity": 0,
+       "message": null
+      },
+      {
+       "text": "Korn",
+       "word_start": true,
+       "stress": 1,
+       "prosody_level": 100,
+       "complexity": 0,
+       "message": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

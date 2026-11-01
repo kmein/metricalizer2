@@ -1,0 +1,10 @@
+{
+  "lock": false,
+  "compilerOptions": { "strict": true },
+  "tasks": {
+    "test": "deno test tests/",
+    "cli": "deno run --allow-read src/cli.ts",
+    "site": "esbuild web/main.ts --bundle --format=esm --outfile=site/app.js && cp web/index.html web/style.css site/",
+    "scrape": "deno run --allow-net --allow-write=fixtures tools/scrape_m2_examples.ts"
+  }
+}

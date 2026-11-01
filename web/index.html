@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>metricalizer2 – Metrikanalyse</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>metricalizer2</h1>
+<p>Regelbasierte Metrikanalyse deutscher Gedichte. Kopfzeilen <code>#Titel:</code> und <code>#Autor:</code> sind optional; Leerzeilen trennen Strophen.</p>
+<label for="poem">Gedicht</label>
+<textarea id="poem" rows="16">Was glänzt dort vom Walde im Sonnenschein?
+Hör's näher und näher brausen.
+Es zieht sich herunter in düsteren Reihn,
+Und gellende Hörner schallen darein,
+Und erfüllen die Seele mit Grausen.
+Und wenn ihr die schwarzen Gesellen fragt:
+Das ist Lützows wilde, verwegene Jagd.</textarea>
+<p>
+<label for="meter">Metrum</label>
+<select id="meter">
+<option value="auto">automatisch</option>
+<option value="iambic">jambisch</option>
+<option value="trochaic">trochäisch</option>
+<option value="dactylic">daktylisch</option>
+<option value="dactylic_with_pre">daktylisch mit Auftakt</option>
+<option value="anapestic">anapästisch</option>
+<option value="cretic">kretisch</option>
+<option value="free_filling">Senkungsfreiheit</option>
+<option value="alcaic">alkäische Strophe</option>
+<option value="sapphic">sapphische Strophe</option>
+<option value="asclepiadean_a">asklepiadeische Strophe (2 Asklepiadeen, Pherekrateus, Glykoneus)</option>
+<option value="asclepiadean_b">asklepiadeische Strophe (3 Asklepiadeen, Glykoneus)</option>
+<option value="distich">Distichon</option>
+<option value="free_rhythm">freie Rhythmen</option>
+</select>
+<button id="analyse">Analysieren</button>
+</p>
+<div id="result"></div>
+<script type="module" src="app.js"></script>
+</body>
+</html>
