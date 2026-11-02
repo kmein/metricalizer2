@@ -7,8 +7,12 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<h1>metricalizer2</h1>
-<p>Regelbasierte Metrikanalyse deutscher Gedichte. Kopfzeilen <code>#Titel:</code> und <code>#Autor:</code> sind optional; Leerzeilen trennen Strophen.</p>
+<header class="bar">
+<span class="brand">metricalizer2</span>
+<span class="tagline">Metrikanalyse</span>
+</header>
+<main>
+<section class="card">
 <label for="poem">Gedicht</label>
 <textarea id="poem" rows="18">#Titel: Mondnacht
 #Autor: Joseph von Eichendorff
@@ -26,7 +30,8 @@ Und meine Seele spannte
 Weit ihre Flügel aus,
 Flog durch die stillen Lande,
 Als flöge sie nach Haus.</textarea>
-<p>
+<p class="hint">Leerzeilen trennen Strophen. Die Kopfzeilen <code>#Titel:</code> und <code>#Autor:</code> sind optional.</p>
+<div class="controls">
 <label for="meter">Metrum</label>
 <select id="meter">
 <option value="auto">automatisch</option>
@@ -45,8 +50,10 @@ Als flöge sie nach Haus.</textarea>
 <option value="free_rhythm">freie Rhythmen</option>
 </select>
 <button id="analyse">Analysieren</button>
-</p>
-<div id="result"></div>
+</div>
+</section>
+<section id="result" class="card"></section>
+</main>
 <script type="module" src="app.js"></script>
 </body>
 </html>

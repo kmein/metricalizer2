@@ -43,12 +43,18 @@ const ESC: Record<string, string> = { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"
 const esc = (s: string) => s.replace(/[&<>"']/g, (c) => ESC[c]);
 const LEVEL: Record<string, string> = { "0.5": "c05", "1": "c10", "2": "c20" };
 
+/** inverse of the rhyme lettering: a → 0, z → 25, a1 → 26 */
+function rhymeGroup(letter: string): number {
+  return letter.charCodeAt(0) - 97 + 26 * Number(letter.slice(1) || 0);
+}
+
 export function renderHtml(a: Analysis): string {
   const out = ['<dl class="header">'];
   for (const [k, v] of header(a)) out.push(`<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`);
   out.push("</dl>");
   for (const st of a.stanzas) {
     out.push('<table class="stanza">');
+    const width = Math.max(...st.lines.map((l) => l.syllables.length));
     for (const line of st.lines) {
       const cells = line.syllables.map((s) => {
         const cls = ["syl"];
@@ -58,7 +64,10 @@ export function renderHtml(a: Analysis): string {
         const title = s.reason ? ` title="${esc(REASON_TEXT[s.reason])}"` : "";
         return `<td class="${cls.join(" ")}"${title}>${esc(s.text)}<br>${s.meter ? "+" : "-"}</td>`;
       });
-      out.push(`<tr>${cells.join("")}<td class="rhyme">${esc(line.rhyme)}</td><td class="lc">${line.complexity}</td></tr>`);
+      // pad short lines so rhyme and complexity stay in one column per stanza
+      const gap = width - line.syllables.length;
+      if (gap > 0) cells.push(`<td class="pad" colspan="${gap}"></td>`);
+      out.push(`<tr>${cells.join("")}<td class="rhyme"><span class="r${rhymeGroup(line.rhyme) % 5}">${esc(line.rhyme)}</span></td><td class="lc">${line.complexity}</td></tr>`);
     }
     out.push("</table>");
   }
